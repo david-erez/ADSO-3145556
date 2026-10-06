@@ -147,9 +147,6 @@ UTC-5)
 
 - **Commits duplicados por squash:** en `RentaMovil`, `70a1d02` y `1d6cd55` son el mismo cambio (mi commit y el que generó el *Squash and Merge* del PR #30).
 - **Misma hora en varios commits:** los commits del 2 de octubre en `rtm-fleet-maintenance` y `rtm-fleet-maintenance-db` comparten fecha y hora porque se crearon juntos al armar el historial inicial por PRs.
-
-- **Ramas sin fusionar:** parte del trabajo de octubre está en ramas aún sin fusionar (`feat/maintenance-management`, `feat/maintenance-lifecycle-and-branch-coordinates`, `feat/route-fleet-catalogs`, `feat/conection-with-backend-fleet-maintenance`, `fix/ui-new`).
-
 ---
 
 *Declaro que la información de este informe es veraz y que los commits listados son de mi autoría.*
